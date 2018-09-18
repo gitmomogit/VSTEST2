@@ -16,10 +16,9 @@ namespace Factory
 
             //parents.CreateAutoCar();
 
-            Console.WriteLine($"{DateTime.Now.ToString("yyyyMMdd")}校园日领券");
+            Console.WriteLine($"{DateTime.Now.ToString("yyyyMMdd")}校园日领券HA");
 
             Console.ReadKey();
-
         }
     }
 
